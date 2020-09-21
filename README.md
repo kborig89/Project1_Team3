@@ -14,5 +14,5 @@ Average Monthly Spend
 Public Transportation Compared to Uber
 Ridership By Bus
 Ridership By 5 Boroughs
-Datasets to be used:
+Datasets to be used: data.ny.gov, uber
 Rough Breakdown of Tasks:
