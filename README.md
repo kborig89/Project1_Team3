@@ -4,7 +4,7 @@ Columbia Bootcamp project 1
 ridership by borough
 
 Project Title: Uber and Public Transportation in New York City during the Coronavirus Pandemic
-Team Members: Kathyrn Buckwalter, Julissa Guzman, Patrick Saitta, & Eddie Xu
+Team Members: Kathyrn Buckwalter, Julissa Guzman, Patrick Saitta, Eddie Xu, & Mackenzie Baucum
 Project Description: Assess ridership of Uber and Public Transportation in New York City during the Coronavirus Pandemic
 Research Questions to Answer:
 How did the pandemic affect usage of Uber and Public Transportation in New York City?
