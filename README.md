@@ -9,11 +9,11 @@ MTA turnstyle data from last week of March (Saturday - Friday)
 
 Research Questions to Answer:
 How did the pandemic affect usage of Subways in New York City?
-- Total Ridership YOY
-- Was ridership affected more during a certain time of day?
+- Total Ridership YOY - Mean
 - Was there more of an impact on ridership in hubs such as Times Sq/Canal St vs residential 86th st Q and 1 UES UWS
 - Did areas with higher rates of Covid see a bigger change in ridership?
 - What day of the week was most impacted - weekend vs weekdays
+- Was ridership affected more during a certain time of day?
 
 
 Turnstyle Data from Last Week of March (Sunday - Friday)
